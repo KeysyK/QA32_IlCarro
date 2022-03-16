@@ -1,16 +1,16 @@
 package tests;
 
 import org.openqa.selenium.By;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class LoginTests extends TestBase {
 
     @Test
     public void loginSuccess(){
-        click(By.cssSelector("[href='/login?url=%2Fsearch']"));
-        type(By.cssSelector("#email"),"arielle@mail.ru");
-        type(By.cssSelector("#password"), "Arielle1234$");
-        click(By.xpath("//button[@type='submit']"));
-        isElementPresent(By.cssSelector("[href='/logout?url=%2Fsearch']"));
+        app.getUserHelper().openLoginForm();
+        app.getUserHelper().fillLoginForm("arielle@mail.ru","Arielle1234$");
+        app.getUserHelper().submitLogin();
+        Assert.assertTrue(app.getUserHelper().isLoginSuccess());
     }
 }
