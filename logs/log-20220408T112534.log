@@ -1,0 +1,3 @@
+11:25:37.332 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+11:25:42.233 INFO  tests.TestBase - Starts test --->public void tests.AddNewCarTests.addNewCarSuccess()
+11:25:54.491 INFO  tests.TestBase - Test start with user ---> User{name='null', lastName='null', email='arielle@mail.ru', password='Arielle1234$', phone='null'}

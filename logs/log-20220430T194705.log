@@ -1,0 +1,118 @@
+19:47:08.078 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+19:47:13.380 INFO  tests.TestBase - Starts test --->public void tests.LoginTests.loginSuccessModel()
+19:47:13.388 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:47:23.483 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:47:23.488 INFO  manager.MyListener - Start find element ---> By.cssSelector: [href='/login?url=%2Fsearch']
+19:47:23.542 INFO  manager.MyListener - The element with locator ---> By.cssSelector: [href='/login?url=%2Fsearch']was found
+19:47:23.797 INFO  manager.MyListener - Start find element ---> By.cssSelector: #email
+19:47:23.835 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #emailwas found
+19:47:24.123 INFO  manager.MyListener - Start find element ---> By.cssSelector: #password
+19:47:24.171 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #passwordwas found
+19:47:24.461 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:24.504 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:24.639 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:24.662 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:25.825 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:25.883 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:25.967 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:25.989 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:26.014 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:26.042 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:47:26.043 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:26.079 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:47:26.142 INFO  tests.TestBase - Starts test --->public void tests.LoginTests.loginSuccessModel(models.User)
+19:47:26.145 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:47:26.165 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:47:26.166 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:47:26.201 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:47:26.436 INFO  tests.TestBase - Test needs logout
+19:47:26.485 INFO  manager.MyListener - Start find element ---> By.cssSelector: [href='/login?url=%2Fsearch']
+19:47:26.526 INFO  manager.MyListener - The element with locator ---> By.cssSelector: [href='/login?url=%2Fsearch']was found
+19:47:26.625 INFO  manager.MyListener - Start find element ---> By.cssSelector: #email
+19:47:26.650 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #emailwas found
+19:47:26.984 INFO  manager.MyListener - Start find element ---> By.cssSelector: #password
+19:47:27.015 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #passwordwas found
+19:47:27.350 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:27.390 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:27.497 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:27.533 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:28.663 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:28.706 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:28.790 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:28.830 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:28.879 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:28.907 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:47:28.908 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:28.936 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:47:29.057 INFO  tests.TestBase - Starts test --->public void tests.LoginTests.loginSuccessModel(models.User)
+19:47:29.061 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:47:29.104 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:47:29.105 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:47:29.181 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:47:29.329 INFO  tests.TestBase - Test needs logout
+19:47:29.331 INFO  manager.MyListener - Start find element ---> By.cssSelector: [href='/login?url=%2Fsearch']
+19:47:29.360 INFO  manager.MyListener - The element with locator ---> By.cssSelector: [href='/login?url=%2Fsearch']was found
+19:47:29.543 INFO  manager.MyListener - Start find element ---> By.cssSelector: #email
+19:47:29.579 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #emailwas found
+19:47:29.967 INFO  manager.MyListener - Start find element ---> By.cssSelector: #password
+19:47:29.999 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #passwordwas found
+19:47:30.275 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:30.302 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:30.368 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:30.397 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:31.503 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:31.543 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:31.599 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:31.635 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:31.688 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:31.723 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:47:31.724 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:31.757 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:47:31.879 INFO  tests.TestBase - Starts test --->public void tests.LoginTests.loginSuccessModel(models.User)
+19:47:31.883 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:47:31.921 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:47:31.924 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:47:32.020 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:47:32.179 INFO  tests.TestBase - Test needs logout
+19:47:32.180 INFO  manager.MyListener - Start find element ---> By.cssSelector: [href='/login?url=%2Fsearch']
+19:47:32.204 INFO  manager.MyListener - The element with locator ---> By.cssSelector: [href='/login?url=%2Fsearch']was found
+19:47:32.348 INFO  manager.MyListener - Start find element ---> By.cssSelector: #email
+19:47:32.374 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #emailwas found
+19:47:32.852 INFO  manager.MyListener - Start find element ---> By.cssSelector: #password
+19:47:32.886 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #passwordwas found
+19:47:33.307 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:33.328 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:33.385 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:33.420 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:34.570 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:34.610 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:34.666 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:34.700 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:34.750 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:34.782 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:47:34.783 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:34.844 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:47:34.988 INFO  tests.TestBase - Starts test --->public void tests.LoginTests.loginSuccessModel(models.User)
+19:47:34.994 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:47:35.037 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:47:35.038 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:47:35.186 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:47:35.483 INFO  tests.TestBase - Test needs logout
+19:47:35.484 INFO  manager.MyListener - Start find element ---> By.cssSelector: [href='/login?url=%2Fsearch']
+19:47:35.519 INFO  manager.MyListener - The element with locator ---> By.cssSelector: [href='/login?url=%2Fsearch']was found
+19:47:35.711 INFO  manager.MyListener - Start find element ---> By.cssSelector: #email
+19:47:35.750 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #emailwas found
+19:47:36.164 INFO  manager.MyListener - Start find element ---> By.cssSelector: #password
+19:47:36.188 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #passwordwas found
+19:47:36.563 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:36.605 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:36.720 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:47:36.754 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:47:37.888 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:37.928 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:37.983 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+19:47:38.021 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+19:47:38.076 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:38.114 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:47:38.115 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:47:38.145 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found

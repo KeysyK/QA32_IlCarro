@@ -1,0 +1,43 @@
+12:26:03.029 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+12:26:04.389 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+12:26:06.537 INFO  tests.TestBase - Starts test --->public void tests.RegistrationTests.regSuccess()
+12:26:06.540 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+12:26:12.755 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+12:26:12.758 INFO  manager.MyListener - Start find element ---> By.cssSelector: [href='/registration?url=%2Fsearch']
+12:26:12.793 INFO  manager.MyListener - We have a 'throwable' ---> no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-GGG0J1LT', ip: '10.0.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\keysy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62092}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e25b66b6ec13d43921f7d85fe4983e7a
+*** Element info: {Using=css selector, value=[href='/registration?url=%2Fsearch']}
+12:26:12.794 INFO  manager.MyListener - We have a 'throwable' ---> org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-GGG0J1LT', ip: '10.0.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\keysy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62092}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e25b66b6ec13d43921f7d85fe4983e7a
+*** Element info: {Using=css selector, value=[href='/registration?url=%2Fsearch']}
+12:26:12.804 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+12:26:12.840 INFO  manager.MyListener - We have a 'throwable' ---> no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-GGG0J1LT', ip: '10.0.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\keysy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62092}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e25b66b6ec13d43921f7d85fe4983e7a
+*** Element info: {Using=xpath, value=//button[text()='Ok']}
+12:26:12.842 INFO  manager.MyListener - We have a 'throwable' ---> org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-GGG0J1LT', ip: '10.0.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\keysy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62092}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e25b66b6ec13d43921f7d85fe4983e7a
+*** Element info: {Using=xpath, value=//button[text()='Ok']}

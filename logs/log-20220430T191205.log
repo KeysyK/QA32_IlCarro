@@ -1,0 +1,79 @@
+19:12:08.052 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+19:12:12.271 INFO  tests.TestBase - Starts test --->public void tests.AddNewCarTests.addNewCarSuccess()
+19:12:12.278 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+19:12:22.368 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+19:12:22.369 INFO  manager.MyListener - Start find element ---> By.cssSelector: [href='/login?url=%2Fsearch']
+19:12:22.406 INFO  manager.MyListener - The element with locator ---> By.cssSelector: [href='/login?url=%2Fsearch']was found
+19:12:22.515 INFO  manager.MyListener - Start find element ---> By.cssSelector: #email
+19:12:22.535 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #emailwas found
+19:12:22.875 INFO  manager.MyListener - Start find element ---> By.cssSelector: #password
+19:12:22.916 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #passwordwas found
+19:12:23.223 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:12:23.257 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:12:23.391 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+19:12:23.416 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+19:12:23.513 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:12:24.236 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:12:24.237 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+19:12:24.304 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+19:12:24.497 INFO  tests.TestBase - Test start with user ---> User{name='null', lastName='null', email='arielle@mail.ru', password='Arielle1234$', phone='null'}
+19:12:25.535 INFO  manager.MyListener - Start find element ---> By.id: 1
+19:12:25.588 INFO  manager.MyListener - The element with locator ---> By.id: 1was found
+19:12:25.901 INFO  manager.MyListener - Start find element ---> By.id: pickUpPlace
+19:12:25.967 INFO  manager.MyListener - The element with locator ---> By.id: pickUpPlacewas found
+19:12:26.441 INFO  manager.MyListener - Start find element ---> By.cssSelector: .pac-item
+19:12:26.918 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .pac-itemwas found
+19:12:27.583 INFO  manager.MyListener - Start find element ---> By.id: make
+19:12:27.634 INFO  manager.MyListener - The element with locator ---> By.id: makewas found
+19:12:28.026 INFO  manager.MyListener - Start find element ---> By.id: model
+19:12:28.058 INFO  manager.MyListener - The element with locator ---> By.id: modelwas found
+19:12:28.304 INFO  manager.MyListener - Start find element ---> By.id: year
+19:12:28.339 INFO  manager.MyListener - The element with locator ---> By.id: yearwas found
+19:12:28.669 INFO  manager.MyListener - Start find element ---> By.id: engine
+19:12:28.709 INFO  manager.MyListener - The element with locator ---> By.id: enginewas found
+19:12:28.989 INFO  manager.MyListener - Start find element ---> By.id: fuel
+19:12:29.024 INFO  manager.MyListener - The element with locator ---> By.id: fuelwas found
+19:12:29.064 INFO  manager.MyListener - Start find element ---> By.xpath: .//option[@value = "Petrol"]
+19:12:29.106 INFO  manager.MyListener - The element with locator ---> By.xpath: .//option[@value = "Petrol"]was found
+19:12:29.211 INFO  manager.MyListener - Start find element ---> By.id: gear
+19:12:29.258 INFO  manager.MyListener - The element with locator ---> By.id: gearwas found
+19:12:29.306 INFO  manager.MyListener - Start find element ---> By.xpath: .//option[@value = "MT"]
+19:12:29.341 INFO  manager.MyListener - The element with locator ---> By.xpath: .//option[@value = "MT"]was found
+19:12:29.405 INFO  manager.MyListener - Start find element ---> By.id: wheelsDrive
+19:12:29.428 INFO  manager.MyListener - The element with locator ---> By.id: wheelsDrivewas found
+19:12:29.453 INFO  manager.MyListener - Start find element ---> By.xpath: .//option[@value = "AWD"]
+19:12:29.477 INFO  manager.MyListener - The element with locator ---> By.xpath: .//option[@value = "AWD"]was found
+19:12:29.556 INFO  manager.MyListener - Start find element ---> By.id: doors
+19:12:29.597 INFO  manager.MyListener - The element with locator ---> By.id: doorswas found
+19:12:29.842 INFO  manager.MyListener - Start find element ---> By.id: seats
+19:12:29.896 INFO  manager.MyListener - The element with locator ---> By.id: seatswas found
+19:12:30.341 INFO  manager.MyListener - Start find element ---> By.id: class
+19:12:30.385 INFO  manager.MyListener - The element with locator ---> By.id: classwas found
+19:12:30.823 INFO  manager.MyListener - Start find element ---> By.id: fuelConsumption
+19:12:30.873 INFO  manager.MyListener - The element with locator ---> By.id: fuelConsumptionwas found
+19:12:31.245 INFO  manager.MyListener - Start find element ---> By.id: serialNumber
+19:12:31.274 INFO  manager.MyListener - The element with locator ---> By.id: serialNumberwas found
+19:12:31.592 INFO  manager.MyListener - Start find element ---> By.id: price
+19:12:31.634 INFO  manager.MyListener - The element with locator ---> By.id: pricewas found
+19:12:31.930 INFO  manager.MyListener - Start find element ---> By.id: distance
+19:12:31.970 INFO  manager.MyListener - The element with locator ---> By.id: distancewas found
+19:12:32.263 INFO  manager.MyListener - Start find element ---> By.cssSelector: .feature-input
+19:12:32.297 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .feature-inputwas found
+19:12:32.589 INFO  manager.MyListener - Start find element ---> By.id: about
+19:12:32.621 INFO  manager.MyListener - The element with locator ---> By.id: aboutwas found
+19:12:32.876 INFO  manager.MyListener - Start find element ---> By.id: photos
+19:12:32.911 INFO  manager.MyListener - The element with locator ---> By.id: photoswas found
+19:12:32.969 INFO  manager.MyListener - We have a 'throwable' ---> unknown error: path is not absolute: src/test/resources/jpegsystems-home.jpg
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-GGG0J1LT', ip: '10.0.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\keysy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52275}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8aa1835aa682f68af476875b73134573
+19:12:32.972 INFO  manager.MyListener - We have a 'throwable' ---> org.openqa.selenium.WebDriverException: unknown error: path is not absolute: src/test/resources/jpegsystems-home.jpg
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-GGG0J1LT', ip: '10.0.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\keysy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52275}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8aa1835aa682f68af476875b73134573

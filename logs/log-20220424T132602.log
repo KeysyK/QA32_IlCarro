@@ -1,0 +1,22 @@
+13:26:05.321 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+13:26:09.998 INFO  tests.TestBase - Starts test --->public void tests.LoginTests.loginSuccessModel()
+13:26:10.001 INFO  manager.MyListener - Start find element ---> By.xpath: //a[text() =' Logout ']
+13:26:20.079 INFO  manager.MyListener - The element with locator ---> By.xpath: //a[text() =' Logout ']was found
+13:26:20.079 INFO  manager.MyListener - Start find element ---> By.cssSelector: [href='/login?url=%2Fsearch']
+13:26:20.094 INFO  manager.MyListener - The element with locator ---> By.cssSelector: [href='/login?url=%2Fsearch']was found
+13:26:20.209 INFO  manager.MyListener - Start find element ---> By.cssSelector: #email
+13:26:20.238 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #emailwas found
+13:26:20.424 INFO  manager.MyListener - Start find element ---> By.cssSelector: #password
+13:26:20.464 INFO  manager.MyListener - The element with locator ---> By.cssSelector: #passwordwas found
+13:26:20.641 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+13:26:20.671 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+13:26:20.735 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+13:26:20.778 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+13:26:21.858 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+13:26:21.904 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+13:26:21.921 INFO  manager.MyListener - Start find element ---> By.cssSelector: .dialog-container h2
+13:26:21.937 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .dialog-container h2was found
+13:26:21.952 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+13:26:21.968 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found
+13:26:21.968 INFO  manager.MyListener - Start find element ---> By.xpath: //button[text()='Ok']
+13:26:21.984 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[text()='Ok']was found

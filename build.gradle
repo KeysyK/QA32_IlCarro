@@ -12,8 +12,36 @@ repositories {
 dependencies {
     implementation 'org.seleniumhq.selenium:selenium-java:3.141.59'
     implementation 'org.testng:testng:7.4.0'
+
+    compileOnly 'org.projectlombok:lombok:1.18.22'
+    annotationProcessor 'org.projectlombok:lombok:1.18.22'
+
+    testCompileOnly 'org.projectlombok:lombok:1.18.16'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.16'
+
+    implementation 'ch.qos.logback:logback-classic:1.2.11'
+
 }
 
 test {
     useTestNG()
+}
+task regG(type: Test){
+    useTestNG(){
+        def groups = System.getProperty('groups')
+        if (groups != null) {
+            includeGroups groups
+        }
+        def suite = System.getProperty('suite', '')
+        if (suite.equals('user')) {
+            suites 'src/test/resources/user.xml'
+        } else if (suite.equals('car')) {
+            suites 'src/test/resources/car.xml'
+        } else {
+            suites 'src/test/resources/testng.xml'
+        }
+    }
+    if(project.hasProperty('browser')){
+        systemProperty 'browser', "${browser}"
+    }
 }

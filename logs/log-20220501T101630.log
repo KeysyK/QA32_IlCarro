@@ -1,0 +1,42 @@
+10:16:32.901 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+10:16:36.636 INFO  tests.TestBase - Starts test --->public void tests.SearchTests.searchAnyPeriod()
+10:16:36.641 INFO  manager.MyListener - Start find element ---> By.id: city
+10:16:36.679 INFO  manager.MyListener - The element with locator ---> By.id: citywas found
+10:16:36.953 INFO  manager.MyListener - Start find element ---> By.cssSelector: .pac-item
+10:16:37.461 INFO  manager.MyListener - The element with locator ---> By.cssSelector: .pac-itemwas found
+10:16:38.091 INFO  manager.MyListener - Start find element ---> By.id: dates
+10:16:38.131 INFO  manager.MyListener - The element with locator ---> By.id: dateswas found
+10:16:38.305 INFO  manager.MyListener - Start find element ---> By.xpath: //div[text()=' 20 ']
+10:16:38.338 INFO  manager.MyListener - The element with locator ---> By.xpath: //div[text()=' 20 ']was found
+10:16:38.467 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:38.500 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:38.596 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:38.626 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:38.695 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:38.714 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:38.782 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:38.806 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:38.868 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:38.881 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:38.953 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:38.981 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:39.062 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:39.090 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:39.165 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:39.191 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:39.257 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:39.285 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:39.347 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:39.364 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:39.461 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:39.488 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:39.569 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@aria-label='Next month']
+10:16:39.595 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@aria-label='Next month']was found
+10:16:39.668 INFO  manager.MyListener - Start find element ---> By.xpath: //div[text()=' 1 ']
+10:16:39.700 INFO  manager.MyListener - The element with locator ---> By.xpath: //div[text()=' 1 ']was found
+10:16:39.838 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+10:16:39.868 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+10:16:39.974 INFO  manager.MyListener - Start find element ---> By.xpath: //button[@type='submit']
+10:16:39.997 INFO  manager.MyListener - The element with locator ---> By.xpath: //button[@type='submit']was found
+10:16:42.161 INFO  manager.MyListener - Start find element ---> By.className: logo
+10:16:42.197 INFO  manager.MyListener - The element with locator ---> By.className: logowas found

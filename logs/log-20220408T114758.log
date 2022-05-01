@@ -1,0 +1,2 @@
+11:48:01.420 INFO  manager.ApplicationManager - All tests start in ChromeDriver
+11:48:06.374 INFO  tests.TestBase - Starts test --->public void tests.SearchTests.searchAnyPeriod()
